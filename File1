@@ -1,0 +1,3 @@
+GitHub is a web-based platform used for project version control and codebase hosting. GitHub uses Git, a widely-used version control system. GitLab and Bitbucket are similar tools.
+
+Using GitHub is a prerequisite of most tutorials on the CircleCI blog, so it is helpful to learn to use it. In this tutorial, I’ll show you how to push a project to GitHub
